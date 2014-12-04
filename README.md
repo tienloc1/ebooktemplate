@@ -1,4 +1,4 @@
-ebooktemplate
+Ebook Template
 =============
 
-It's just a ebook template written by me with basic html and css
+It's just a ebook template written by me with basic HTML and CSS
