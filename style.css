@@ -47,6 +47,9 @@ table {
     border-spacing: 0;
 }
 
+.clear-fix {
+    clear: both;
+}
 
 /* ==========================================================================
    MY CSS
@@ -58,13 +61,13 @@ table {
     }
 
     .dr-ebook-table {
-        width: 100%;
+        width: 85%;
         text-align: center;
-        margin-bottom: 20px;
+        margin: 0 auto 20px;
     }
 
     .ebook-list {
-        display: inline-block;
+        float: left;
         padding-left: 20px;
         width: 240px;
     }
