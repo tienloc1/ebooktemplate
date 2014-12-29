@@ -69,10 +69,11 @@ table {
     .ebook-list {
         float: left;
         padding-left: 20px;
+        padding-bottom: 20px;
         width: 240px;
     }
 
-    .ebook-list:nth-child(1) {
+    .ebook-list:nth-child(4n+1) {
         padding-left: 0;
     }
 
